@@ -1,0 +1,10 @@
+@media (max-width: 1440px) {
+  .rating,
+  .thankyou {
+    width: 30rem;
+  }
+
+  .rating-text {
+    font-size: 1.3rem;
+  }
+}
